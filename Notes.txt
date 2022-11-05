@@ -1,0 +1,39 @@
+
+my_key = "beBybSi8daPgsTp5yx5cHtHpYcrjp5Jq"
+polygon-homework-fall-2022
+
+# see https://towardsdatascience.com/deep-dive-create-and-publish-your-first-python-library-f7f618719e14
+# Steps:
+
+# 1. fix setup.py
+# 2. install  wheel  twine
+# 3. python setup.py sdist bdist_wheel
+# 4. check build run:              twine check dist/*
+
+# upload files to github
+# 5. register on pypi and test.pypi  buxuele # LD8VjZhQFzY@cL_
+# 6. upload for test
+# twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+
+# 7. upload the real package:         twine upload dist/*
+
+
+./build
+./dist
+./.travis.yml
+./ImgToolsGG.egg-info
+./venv
+./Notes.txt
+./.idea
+./files
+
+
+账户 gl2392
+密码 Kirito4012
+两个账户跟密码都一样
+
+git config --global credential.helper store
+下次pull的时候输一次密码以后就不用输了
+
+#
+

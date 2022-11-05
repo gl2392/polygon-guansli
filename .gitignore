@@ -1,0 +1,10 @@
+./build
+./dist
+./.travis.yml
+./ImgToolsGG.egg-info
+./venv
+./Notes.txt
+./.idea
+./files
+./polygon_guansli.egg-info
+
