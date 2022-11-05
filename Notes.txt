@@ -36,4 +36,6 @@ git config --global credential.helper store
 下次pull的时候输一次密码以后就不用输了
 
 #
+pypi
+https://pypi.org/project/polygon-guansli/0.1.1/
 
